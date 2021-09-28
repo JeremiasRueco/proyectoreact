@@ -1,0 +1,29 @@
+div.logo img {
+    width:20%;
+}
+.MuiToolbar-root.MuiToolbar-regular.MuiToolbar-gutters {
+    width: 100%;
+    color: white;
+    background-color: #A5CCD1;
+    box-sizing: border-box;
+    justify-content: space-between; 
+}
+ul {
+    list-style: none;
+    display: flex;
+}
+li {
+    padding: 0px 3px;
+}
+
+div.title{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(175, 149, 135);
+    color: rgb(122, 93, 68);
+    padding: 8px;
+
+}
+h2 {
+    color: rgb(85, 68, 58); 
+}
